@@ -1,0 +1,112 @@
+{
+  "weeks": [
+    {
+      "id": 1,
+      "title": "Lesweek 1",
+      "wat_veranderd": "<p>Hier komt de uitleg over wat je veranderde.</p>",
+      "waarom": "<p>Hier komt jouw motivatie.</p>",
+      "uxui": "<p>Hier komen UX/UI keuzes.</p>",
+      "tradeoffs": "<p>Hier komen trade-offs.</p>",
+      "usability": "<p>Hier komt usability info.</p>"
+    },
+    {
+      "id": 2,
+      "title": "Lesweek 2",
+      "wat_veranderd": "<p>Hier komt de uitleg over wat je veranderde.</p>",
+      "waarom": "<p>Hier komt jouw motivatie.</p>",
+      "uxui": "<p>Hier komen UX/UI keuzes.</p>",
+      "tradeoffs": "<p>Hier komen trade-offs.</p>",
+      "usability": "<p>Hier komt usability info.</p>"
+    },
+    {
+      "id": 3,
+      "title": "Lesweek 3",
+      "wat_veranderd": "<p>Hier komt de uitleg over wat je veranderde.</p>",
+      "waarom": "<p>Hier komt jouw motivatie.</p>",
+      "uxui": "<p>Hier komen UX/UI keuzes.</p>",
+      "tradeoffs": "<p>Hier komen trade-offs.</p>",
+      "usability": "<p>Hier komt usability info.</p>"
+    },
+    {
+      "id": 4,
+      "title": "Lesweek 4",
+      "wat_veranderd": "<p>Hier komt de uitleg over wat je veranderde.</p>",
+      "waarom": "<p>Hier komt jouw motivatie.</p>",
+      "uxui": "<p>Hier komen UX/UI keuzes.</p>",
+      "tradeoffs": "<p>Hier komen trade-offs.</p>",
+      "usability": "<p>Hier komt usability info.</p>"
+    },
+    {
+      "id": 5,
+      "title": "Lesweek 5",
+      "wat_veranderd": "<p>Hier komt de uitleg over wat je veranderde.</p>",
+      "waarom": "<p>Hier komt jouw motivatie.</p>",
+      "uxui": "<p>Hier komen UX/UI keuzes.</p>",
+      "tradeoffs": "<p>Hier komen trade-offs.</p>",
+      "usability": "<p>Hier komt usability info.</p>"
+    },
+    {
+      "id": 6,
+      "title": "Lesweek 6",
+      "wat_veranderd": "<p>Hier komt de uitleg over wat je veranderde.</p>",
+      "waarom": "<p>Hier komt jouw motivatie.</p>",
+      "uxui": "<p>Hier komen UX/UI keuzes.</p>",
+      "tradeoffs": "<p>Hier komen trade-offs.</p>",
+      "usability": "<p>Hier komt usability info.</p>"
+    },
+    {
+      "id": 7,
+      "title": "Lesweek 7",
+      "wat_veranderd": "<p>Hier komt de uitleg over wat je veranderde.</p>",
+      "waarom": "<p>Hier komt jouw motivatie.</p>",
+      "uxui": "<p>Hier komen UX/UI keuzes.</p>",
+      "tradeoffs": "<p>Hier komen trade-offs.</p>",
+      "usability": "<p>Hier komt usability info.</p>"
+    },
+    {
+      "id": 8,
+      "title": "Lesweek 8",
+      "wat_veranderd": "<p>Hier komt de uitleg over wat je veranderde.</p>",
+      "waarom": "<p>Hier komt jouw motivatie.</p>",
+      "uxui": "<p>Hier komen UX/UI keuzes.</p>",
+      "tradeoffs": "<p>Hier komen trade-offs.</p>",
+      "usability": "<p>Hier komt usability info.</p>"
+    },
+    {
+      "id": 9,
+      "title": "Lesweek 9",
+      "wat_veranderd": "<p>Hier komt de uitleg over wat je veranderde.</p>",
+      "waarom": "<p>Hier komt jouw motivatie.</p>",
+      "uxui": "<p>Hier komen UX/UI keuzes.</p>",
+      "tradeoffs": "<p>Hier komen trade-offs.</p>",
+      "usability": "<p>Hier komt usability info.</p>"
+    },
+    {
+      "id": 10,
+      "title": "Lesweek 10",
+      "wat_veranderd": "<p>Hier komt de uitleg over wat je veranderde.</p>",
+      "waarom": "<p>Hier komt jouw motivatie.</p>",
+      "uxui": "<p>Hier komen UX/UI keuzes.</p>",
+      "tradeoffs": "<p>Hier komen trade-offs.</p>",
+      "usability": "<p>Hier komt usability info.</p>"
+    },
+    {
+      "id": 11,
+      "title": "Lesweek 11",
+      "wat_veranderd": "<p>Hier komt de uitleg over wat je veranderde.</p>",
+      "waarom": "<p>Hier komt jouw motivatie.</p>",
+      "uxui": "<p>Hier komen UX/UI keuzes.</p>",
+      "tradeoffs": "<p>Hier komen trade-offs.</p>",
+      "usability": "<p>Hier komt usability info.</p>"
+    },
+    {
+      "id": 12,
+      "title": "Lesweek 12",
+      "wat_veranderd": "<p>Hier komt de uitleg over wat je veranderde.</p>",
+      "waarom": "<p>Hier komt jouw motivatie.</p>",
+      "uxui": "<p>Hier komen UX/UI keuzes.</p>",
+      "tradeoffs": "<p>Hier komen trade-offs.</p>",
+      "usability": "<p>Hier komt usability info.</p>"
+    }
+  ]
+}
