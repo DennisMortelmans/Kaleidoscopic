@@ -75,8 +75,8 @@ header li:hover a {
 
 header a {
   margin-left: 28px;
-  color: white; /* neutraal wit */
-  background: black; /* JR-bord achtergrond */
+  color: white;
+  background: black;
   padding: 4px 10px;
   border-radius: 6px;
   text-decoration: none;
@@ -112,7 +112,6 @@ header li.active a {
   border: 1px solid #f5f249;
 }
 
-/* Show tooltip on hover */
 .has-tooltip:hover::after {
   opacity: 1;
   top: 110%;
@@ -357,6 +356,12 @@ aside h1 {
   grid-template-columns: 1fr 1fr;
   column-gap: 5px;
 }
+#wat-veranderd img {
+  width: 75vw;
+}
+#usability img {
+  width: 5vw;
+}
 #productimage2 img {
   margin-bottom: -7rem;
   margin-left: 10rem;
@@ -369,8 +374,8 @@ aside h1 {
   transition: box-shadow 0.3s ease, border-color 0.3s ease;
 }
 #productimage3 img {
-  width: auto;
-  height: 697px;
+  margin-top: 10vh;
+  width: 20vw;
   object-fit: contain;
   box-sizing: border-box;
 }
