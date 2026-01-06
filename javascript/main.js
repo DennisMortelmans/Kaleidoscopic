@@ -4,13 +4,15 @@ if (window.location.pathname.includes("week.html")) {
   const params = new URLSearchParams(window.location.search);
   const id = parseInt(params.get("les"));
 
-  fetch("../weken/weken.json")
+  // FIXED: absoluut pad
+  fetch("/weken/weken.json")
     .then((res) => res.json())
     .then((data) => {
       const week = data.weeks.find((w) => w.id === id);
 
       if (!week) {
-        document.getElementById("week-title").textContent = "Les niet gevonden";
+        document.getElementById("week-title").textContent =
+          "Les niet gevonden";
         return;
       }
 
@@ -23,8 +25,12 @@ if (window.location.pathname.includes("week.html")) {
       document.getElementById("usability").innerHTML = week.usability;
     });
 }
+
+// Overzichtpagina detecteren
 if (window.location.pathname.includes("weeks.html")) {
-  fetch("weken/weken.json")
+
+  // FIXED: absoluut pad
+  fetch("/weken/weken.json")
     .then((res) => res.json())
     .then((data) => {
       const articles = document.querySelectorAll("#lesweken article");
@@ -35,6 +41,8 @@ if (window.location.pathname.includes("weeks.html")) {
         if (!week) return;
 
         const link = article.querySelector("a");
+
+        // Link correct instellen
         link.href = `week.html?les=${week.id}`;
 
         const imgs = article.querySelectorAll("img");
